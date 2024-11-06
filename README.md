@@ -14,10 +14,16 @@ NOMBRE: TELL IVAN CASILLA MAQUERA
 - Los datos ingresados deben ser validados.
 - Los productos validados se almacenan en la lista de productos.
 
+CODIGO:
+![image](https://github.com/user-attachments/assets/b6b31bb4-fdc7-4fca-9a68-685019d257af)
+
+
+
+
+![image](https://github.com/user-attachments/assets/3ab08221-2502-49c3-89cc-d1192681a01e)
 
 ![image](https://github.com/user-attachments/assets/48b4510e-6162-4090-8f7e-2c86f259c535)
 ![image](https://github.com/user-attachments/assets/e09f8cd5-db5d-4505-be39-61801fa061cd)
-
 
 ---
 
@@ -30,7 +36,14 @@ NOMBRE: TELL IVAN CASILLA MAQUERA
 #### Criterios de Aceptación:
 - El usuario puede seleccionar una categoría de producto (por ejemplo, Electrónica, Ropa, Alimentos, etc.).
 - La lista de productos se filtra en tiempo real para mostrar solo los productos de la categoría seleccionada.
-  
+
+
+
+
+#
+
+![image](https://github.com/user-attachments/assets/0c6adcab-4d59-4722-bc91-2c9a53b7759a)
+
 ![image](https://github.com/user-attachments/assets/075b49de-ad1e-43fc-a4b7-6fd5da98b83f)
 ![image](https://github.com/user-attachments/assets/4479957d-8caa-408c-b5d2-014d0df1f735)
 
